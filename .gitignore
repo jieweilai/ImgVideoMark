@@ -1,1 +1,2 @@
 inference/models/*.pth
+inference/saved_models/*.pth
